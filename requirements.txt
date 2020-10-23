@@ -1,0 +1,10 @@
+boto3==1.16.2
+botocore==1.19.2
+jmespath==0.10.0
+python-crontab==2.5.1
+python-dateutil==2.8.1
+s3transfer==0.3.3
+schedule==0.6.0
+sh==1.14.0
+six==1.15.0
+urllib3==1.25.11
